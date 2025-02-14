@@ -21,3 +21,9 @@ const cubo2 = new Cubo(aresta2)
 
  console.log('a area total do cubo dois é:', areaTotal)
 console.log('o Volume do cubo dois é : ', volume)
+
+
+
+
+
+// teste
