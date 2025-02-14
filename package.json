@@ -4,8 +4,9 @@
   "description": "Solidos Geometricos",
   "main": "index.js",
   "scripts": {
-    
+
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/davischowe/projeto_adea.git"
