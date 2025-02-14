@@ -4,7 +4,7 @@
   "description": "Solidos Geometricos",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+
   },
   "type": "module",
   "repository": {
